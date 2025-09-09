@@ -21,7 +21,7 @@ import { getTranslateLanguageFromConfig } from "./utils/language-utils";
 const SITE_LANG = "zh_CN"; // 语言代码，例如：'en', 'zh_CN', 'ja' 等。
 
 export const siteConfig: SiteConfig = {
-	title: "欲与星月同比梦的blog",
+	title: "Hamster Blog",
 	subtitle: "施工中",
 
 	lang: SITE_LANG,
